@@ -1,6 +1,7 @@
-### Hi there I'm Carmine 👋 
+<h1 align="center">Hi there I'm Carmine 👋</h1>  
 
-##
+<p  align="center"><strong>I'm a jr. Full Stack Web Developer</strong></p>
+
 
 [![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=carminelentisco&show_icons=true&hide=contribs,issues)](https://github.com/carminelentisco/github-readme-stats)
 
